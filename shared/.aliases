@@ -10,7 +10,10 @@ alias goog="googler"
 alias sl="ls -ltra | grep '\->'" 
 alias pandora=pianobar
 alias e=vim
-
+alias ls="gls -F --color"
+alias l="gls -FAh --color"
+alias ll="gls -l --color"
+alias la="gls -A --color"
 #taskwarrior
 #source ~/.task/.task-aliases
 
