@@ -10,4 +10,4 @@
 	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
     trustExitCode = true
 [diff "spaceman-diff"]
-    command = /usr/local/bin/spaceman-diff
+    cmd = /usr/local/bin/spaceman-diff
